@@ -1,0 +1,8 @@
+This work is licensed under the Mozilla Public License 2.0 (MPL-2.0)  
+and GNU Lesser General Public License v3.0 or later (LGPLv3+).  
+
+You may use, distribute, and modify these files under the terms of either:  
+- MPL-2.0: https://www.mozilla.org/en-US/MPL/2.0/  
+- LGPLv3+: https://www.gnu.org/licenses/lgpl-3.0.html  
+
+SPDX-License-Identifier: MPL-2.0 OR LGPL-3.0-or-later

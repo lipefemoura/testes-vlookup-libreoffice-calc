@@ -1,0 +1,6 @@
+ID,Name,Lookup,Result
+1,Apple,99,=VLOOKUP(C2;A2:B4;2;0)
+2,Banana,,
+3,Orange,,
+,,,
+Expected:,,"#N/A","#N/A"

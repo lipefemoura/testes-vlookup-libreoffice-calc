@@ -1,0 +1,7 @@
+Score,Grade,Lookup,Result
+0,F,4.5,=VLOOKUP(C2;A2:B6;2;1)
+5,C,,
+7,B,,
+9,A,,
+,,,
+Expected:,,"F","F"
