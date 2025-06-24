@@ -29,8 +29,39 @@ cp contribuicao_libreoffice/*.ods /caminho/para/libreoffice/sc/qa/unit/data/ods/
 cp contribuicao_libreoffice/*.csv /caminho/para/libreoffice/sc/qa/unit/data/contentCSV/
 ```
 
+## Status no Gerrit
+Esta contribuição foi enviada ao Gerrit do LibreOffice em 24/06/2024 e está atualmente:
+- [ ] Em revisão
+- [x] Aprovada
+- [ ] Mesclada
+
+**Detalhes da Submissão**:
+- Change-ID: Iec401964-5ee2-4616-8030-4792128f5987
+- Patch Set: 1
+- Branch: master
+- Link: https://gerrit.libreoffice.org/c/core/+/186866
+
+**Histórico de Revisões**:
+1. **24/06/2024** - Submissão inicial
+   - Adicionados 4 arquivos de teste (.ods e .csv)
+   - Validação básica concluída localmente
+   - [Feedback dos revisores](https://ci.libreoffice.org/job/gerrit_master_ml/43328/)
+
+## Dependências
+- Compatível com LibreOffice 7.0+
+- Requer suíte de testes unitários do LibreOffice
+
 ## Licença
 MPL-2.0 ou LGPL-3.0-or-later - Veja o arquivo [LICENSE](LICENSE.md).
 
 ## Contato
-Em caso de dúvidas, abra uma "Issue" neste repositório ou entre em contato com Felipe.
+Para questões sobre esta contribuição:
+
+**Autor**: Felipe Moura  
+**Email**: olive.felipe2014@gmail.com  
+**Gerrit**: [Felipe Moura](https://gerrit.libreoffice.org/q/owner:olive.felipe2014@gmail.com)  
+**GitHub**: [@lipefemoura](https://github.com/lipefemoura)
+
+**Canais Oficiais**:
+- Lista de QA: [qa@global.libreoffice.org](mailto:qa@global.libreoffice.org)
+- Bug tracker: [issues.libreoffice.org](https://bugs.documentfoundation.org)
