@@ -42,7 +42,7 @@ Esta contribuição foi enviada ao Gerrit do LibreOffice em 24/06/2024 e está a
 - Link: https://gerrit.libreoffice.org/c/core/+/186866
 
 **Histórico de Revisões**:
-1. **24/06/2024** - Submissão inicial
+1. **23/06/2024** - Submissão inicial
    - Adicionados 4 arquivos de teste (.ods e .csv)
    - Validação básica concluída localmente
    - [Feedback dos revisores](https://ci.libreoffice.org/job/gerrit_master_ml/43328/)
