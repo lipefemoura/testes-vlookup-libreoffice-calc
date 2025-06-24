@@ -1,7 +1,7 @@
 # Testes de Regressão para PROCV/VLOOKUP no LibreOffice Calc
 
 ## Visão Geral
-Este repositório contém arquivos de teste para verificar o funcionamento da função PROCV (VLOOKUP em inglês) no LibreOffice Calc. Os testes foram criados para o [framework de QA do LibreOffice](https://wiki.documentfoundation.org/QA) e ajudam a evitar regressões.
+Este repositório contém arquivos de teste para verificar o funcionamento da função PROCV (VLOOKUP em inglês) no LibreOffice Calc. Os testes foram criados para o [framework de QA do LibreOffice](https://wiki.documentfoundation.org/Development/Calc_Import_Unit_Tests) e ajudam a evitar regressões.
 
 ## Casos de Teste Incluídos
 | Arquivo | Descrição |
@@ -61,7 +61,3 @@ Para questões sobre esta contribuição:
 **Email**: olive.felipe2014@gmail.com  
 **Gerrit**: [Felipe Moura](https://gerrit.libreoffice.org/q/owner:olive.felipe2014@gmail.com)  
 **GitHub**: [@lipefemoura](https://github.com/lipefemoura)
-
-**Canais Oficiais**:
-- Lista de QA: [qa@global.libreoffice.org](mailto:qa@global.libreoffice.org)
-- Bug tracker: [issues.libreoffice.org](https://bugs.documentfoundation.org)
